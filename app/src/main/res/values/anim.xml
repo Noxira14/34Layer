@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Slide animations -->
+    <item name="slide_in_right" type="anim">@android:anim/slide_in_left</item>
+    <item name="slide_out_left" type="anim">@android:anim/slide_out_right</item>
+    <item name="slide_in_left" type="anim">@android:anim/slide_in_left</item>
+    <item name="slide_out_right" type="anim">@android:anim/slide_out_right</item>
+    
+    <!-- Fade animations -->
+    <item name="fade_in" type="anim">@android:anim/fade_in</item>
+    <item name="fade_out" type="anim">@android:anim/fade_out</item>
+</resources>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">34Layer</string>
+    
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    
+    <!-- Auth -->
+    <string name="login_title">Selamat Datang</string>
+    <string name="login_subtitle">Masuk ke akun 34Layer Anda</string>
+    <string name="register_title">Daftar Akun</string>
+    <string name="register_subtitle">Buat akun 34Layer baru</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Konfirmasi Password</string>
+    <string name="login_button">Masuk</string>
+    <string name="register_button">Daftar</string>
+    <string name="register_link">Daftar Akun Baru</string>
+    <string name="login_link">Sudah punya akun? Masuk</string>
+    
+    <!-- Dashboard -->
+    <string name="welcome_message">Halo %1$s, Selamat Datang Di 34Layer</string>
+    <string name="server_online">Server Online</string>
+    <string name="server_offline">Server Offline</string>
+    
+    <!-- Features -->
+    <string name="web_multiporting">Web MultiPorting</string>
+    <string name="web_multiporting_desc">Test domain dengan berbagai metode</string>
+    <string name="ip_troubleshooting">IP Troubleshooting</string>
+    <string name="ip_troubleshooting_desc">Diagnosa masalah koneksi IP</string>
+    <string name="proxy_server">Proxy Server</string>
+    <string name="proxy_server_desc">Test koneksi melalui proxy</string>
+    
+    <!-- Form Labels -->
+    <string name="domain_label">Domain/URL</string>
+    <string name="time_label">Waktu (detik)</string>
+    <string name="method_label">Method</string>
+    <string name="proxy_label">Proxy</string>
+    <string name="submit_button">Submit</string>
+    <string name="cancel_button">Batal</string>
+    
+    <!-- Navigation Menu -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_web_multiporting">Web MultiPorting</string>
+    <string name="nav_ip_troubleshooting">IP Troubleshooting</string>
+    <string name="nav_proxy_server">Proxy Server</string>
+    <string name="nav_admin_panel">Admin Panel</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="nav_theme_toggle">Ganti Theme</string>
+    <string name="nav_logout">Keluar</string>
+    
+    <!-- Messages -->
+    <string name="login_success">Login berhasil!</string>
+    <string name="login_failed">Login gagal: %1$s</string>
+    <string name="register_success">Registrasi berhasil! Silakan login.</string>
+    <string name="register_failed">Registrasi gagal: %1$s</string>
+    <string name="logout_success">Logout berhasil</string>
+    <string name="scan_success">Scan selesai!</string>
+    <string name="scan_failed">Scan gagal: %1$s</string>
+    <string name="rate_limit_message">Harap tunggu %1$d detik sebelum request berikutnya</string>
+    <string name="legal_warning">Peringatan: Hanya test domain yang Anda miliki atau memiliki izin!</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_empty_username">Username tidak boleh kosong</string>
+    <string name="error_empty_email">Email tidak boleh kosong</string>
+    <string name="error_empty_password">Password tidak boleh kosong</string>
+    <string name="error_empty_domain">Domain tidak boleh kosong</string>
+    <string name="error_empty_time">Waktu tidak boleh kosong</string>
+    <string name="error_empty_method">Method tidak boleh kosong</string>
+    <string name="error_invalid_email">Format email tidak valid</string>
+    <string name="error_invalid_password">Password minimal 6 karakter</string>
+    <string name="error_invalid_domain">Format domain/URL tidak valid</string>
+    <string name="error_invalid_time">Waktu harus antara 1-300 detik</string>
+    <string name="error_password_mismatch">Password tidak sama</string>
+    
+    <!-- Copyright -->
+    <string name="copyright_text">Created By\nIbra Decode &amp; Komodigi Project\'s</string>
+</resources>

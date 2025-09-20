@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_dashboard"
+            android:title="@string/nav_dashboard" />
+        
+        <item
+            android:id="@+id/nav_web_multiporting"
+            android:icon="@drawable/ic_web_multiporting"
+            android:title="@string/nav_web_multiporting" />
+        
+        <item
+            android:id="@+id/nav_ip_troubleshooting"
+            android:icon="@drawable/ic_ip_troubleshooting"
+            android:title="@string/nav_ip_troubleshooting" />
+        
+        <item
+            android:id="@+id/nav_proxy_server"
+            android:icon="@drawable/ic_proxy_server"
+            android:title="@string/nav_proxy_server" />
+    </group>
+
+    <item android:title="Admin">
+        <menu>
+            <item
+                android:id="@+id/nav_admin_panel"
+                android:icon="@drawable/ic_admin_panel"
+                android:title="@string/nav_admin_panel" />
+        </menu>
+    </item>
+
+    <item android:title="Pengaturan">
+        <menu>
+            <item
+                android:id="@+id/nav_theme_toggle"
+                android:icon="@drawable/ic_theme_toggle"
+                android:title="@string/nav_theme_toggle" />
+            
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/nav_logout" />
+        </menu>
+    </item>
+
+</menu>

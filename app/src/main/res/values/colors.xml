@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#1E88E5</color>
+    <color name="primary_variant">#1565C0</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="secondary_color">#FF9800</color>
+    <color name="accent_color">#4CAF50</color>
+    
+    <!-- Background Colors -->
+    <color name="background_color">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+    
+    <!-- Text Colors -->
+    <color name="on_background_color">#212121</color>
+    <color name="on_background_dark">#FFFFFF</color>
+    <color name="on_background_variant">#757575</color>
+    <color name="on_surface_color">#212121</color>
+    <color name="on_surface_dark">#FFFFFF</color>
+    <color name="on_surface_variant">#757575</color>
+    
+    <!-- Status Colors -->
+    <color name="green_500">#4CAF50</color>
+    <color name="red_500">#F44336</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="warning_color">#FF6F00</color>
+    <color name="warning_background">#FFF3E0</color>
+    <color name="warning_text">#E65100</color>
+    
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="overlay_color">#80000000</color>
+    <color name="colorDisabled">#BDBDBD</color>
+    <color name="colorOutline">#E0E0E0</color>
+    
+    <!-- Material Colors -->
+    <color name="colorPrimary">@color/primary_color</color>
+    <color name="colorPrimaryVariant">@color/primary_variant</color>
+    <color name="colorSecondary">@color/secondary_color</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorOnSecondary">@color/white</color>
+    <color name="colorSurface">@color/surface_color</color>
+    <color name="colorOnSurface">@color/on_surface_color</color>
+    <color name="colorBackground">@color/background_color</color>
+    <color name="colorOnBackground">@color/on_background_color</color>
+</resources>
