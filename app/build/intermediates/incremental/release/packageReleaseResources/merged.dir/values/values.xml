@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_color">#4CAF50</color>
+    <color name="background_color">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="black">#000000</color>
+    <color name="colorBackground">@color/background_color</color>
+    <color name="colorDisabled">#BDBDBD</color>
+    <color name="colorOnBackground">@color/on_background_color</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorOnSecondary">@color/white</color>
+    <color name="colorOnSurface">@color/on_surface_color</color>
+    <color name="colorOutline">#E0E0E0</color>
+    <color name="colorPrimary">@color/primary_color</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorPrimaryVariant">@color/primary_variant</color>
+    <color name="colorSecondary">@color/secondary_color</color>
+    <color name="colorSurface">@color/surface_color</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="on_background_color">#212121</color>
+    <color name="on_background_dark">#FFFFFF</color>
+    <color name="on_background_variant">#757575</color>
+    <color name="on_surface_color">#212121</color>
+    <color name="on_surface_dark">#FFFFFF</color>
+    <color name="on_surface_variant">#757575</color>
+    <color name="orange_500">#FF9800</color>
+    <color name="overlay_color">#80000000</color>
+    <color name="primary_color">#1E88E5</color>
+    <color name="primary_variant">#1565C0</color>
+    <color name="red_500">#F44336</color>
+    <color name="secondary_color">#FF9800</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="warning_background">#FFF3E0</color>
+    <color name="warning_color">#FF6F00</color>
+    <color name="warning_text">#E65100</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_corner_radius">8dp</dimen>
+    <dimen name="button_height_large">56dp</dimen>
+    <dimen name="button_height_medium">48dp</dimen>
+    <dimen name="button_height_small">36dp</dimen>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="form_spacing">16dp</dimen>
+    <dimen name="icon_size_large">32dp</dimen>
+    <dimen name="icon_size_medium">24dp</dimen>
+    <dimen name="icon_size_small">16dp</dimen>
+    <dimen name="icon_size_xl">48dp</dimen>
+    <dimen name="input_height">56dp</dimen>
+    <dimen name="lottie_size_large">200dp</dimen>
+    <dimen name="lottie_size_medium">150dp</dimen>
+    <dimen name="lottie_size_small">100dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_xl">32dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_xl">32dp</dimen>
+    <dimen name="text_size_headline">28sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_title">24sp</dimen>
+    <dimen name="text_size_xl">18sp</dimen>
+    <string name="app_name">34Layer</string>
+    <string name="cancel_button">Batal</string>
+    <string name="confirm_password_hint">Konfirmasi Password</string>
+    <string name="copyright_text">Created By\nIbra Decode &amp; Komodigi Project\'s</string>
+    <string name="domain_label">Domain/URL</string>
+    <string name="email_hint">Email</string>
+    <string name="error_empty_domain">Domain tidak boleh kosong</string>
+    <string name="error_empty_email">Email tidak boleh kosong</string>
+    <string name="error_empty_method">Method tidak boleh kosong</string>
+    <string name="error_empty_password">Password tidak boleh kosong</string>
+    <string name="error_empty_time">Waktu tidak boleh kosong</string>
+    <string name="error_empty_username">Username tidak boleh kosong</string>
+    <string name="error_invalid_domain">Format domain/URL tidak valid</string>
+    <string name="error_invalid_email">Format email tidak valid</string>
+    <string name="error_invalid_password">Password minimal 6 karakter</string>
+    <string name="error_invalid_time">Waktu harus antara 1-300 detik</string>
+    <string name="error_password_mismatch">Password tidak sama</string>
+    <string name="ip_troubleshooting">IP Troubleshooting</string>
+    <string name="ip_troubleshooting_desc">Diagnosa masalah koneksi IP</string>
+    <string name="legal_warning">Peringatan: Hanya test domain yang Anda miliki atau memiliki izin!</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_failed">Login gagal: %1$s</string>
+    <string name="login_link">Sudah punya akun? Masuk</string>
+    <string name="login_subtitle">Masuk ke akun 34Layer Anda</string>
+    <string name="login_success">Login berhasil!</string>
+    <string name="login_title">Selamat Datang</string>
+    <string name="logout_success">Logout berhasil</string>
+    <string name="method_label">Method</string>
+    <string name="nav_admin_panel">Admin Panel</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_ip_troubleshooting">IP Troubleshooting</string>
+    <string name="nav_logout">Keluar</string>
+    <string name="nav_proxy_server">Proxy Server</string>
+    <string name="nav_settings">Pengaturan</string>
+    <string name="nav_theme_toggle">Ganti Theme</string>
+    <string name="nav_web_multiporting">Web MultiPorting</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="password_hint">Password</string>
+    <string name="proxy_label">Proxy</string>
+    <string name="proxy_server">Proxy Server</string>
+    <string name="proxy_server_desc">Test koneksi melalui proxy</string>
+    <string name="rate_limit_message">Harap tunggu %1$d detik sebelum request berikutnya</string>
+    <string name="register_button">Daftar</string>
+    <string name="register_failed">Registrasi gagal: %1$s</string>
+    <string name="register_link">Daftar Akun Baru</string>
+    <string name="register_subtitle">Buat akun 34Layer baru</string>
+    <string name="register_success">Registrasi berhasil! Silakan login.</string>
+    <string name="register_title">Daftar Akun</string>
+    <string name="scan_failed">Scan gagal: %1$s</string>
+    <string name="scan_success">Scan selesai!</string>
+    <string name="server_offline">Server Offline</string>
+    <string name="server_online">Server Online</string>
+    <string name="submit_button">Submit</string>
+    <string name="time_label">Waktu (detik)</string>
+    <string name="username_hint">Username</string>
+    <string name="web_multiporting">Web MultiPorting</string>
+    <string name="web_multiporting_desc">Test domain dengan berbagai metode</string>
+    <string name="welcome_message">Halo %1$s, Selamat Datang Di 34Layer</string>
+    <style name="AppButton" parent="Widget.Material3.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="AppButton.Outlined" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="AppCard" parent="Widget.Material3.CardView.Elevated">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">8dp</item>
+    </style>
+    <style name="AppText" parent="TextAppearance.Material3.BodyLarge">
+        <item name="android:textColor">@color/on_background_color</item>
+    </style>
+    <style name="AppText.Body" parent="AppText">
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="AppText.Subtitle" parent="AppText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/on_background_variant</item>
+    </style>
+    <style name="AppText.Title" parent="AppText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="AppTextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="hintTextColor">@color/primary_color</item>
+        <item name="boxStrokeColor">@color/primary_color</item>
+    </style>
+    <style name="AppTheme" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/on_surface_color</item>
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorOnBackground">@color/on_background_color</item>
+        <item name="android:statusBarColor">@color/primary_color</item>
+        <item name="android:navigationBarColor">@color/background_color</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="AppTheme.Dark" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">@color/on_surface_dark</item>
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="colorOnBackground">@color/on_background_dark</item>
+        <item name="android:statusBarColor">@color/primary_color</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="AppTheme.Light" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/primary_color</item>
+        <item name="colorPrimaryVariant">@color/primary_variant</item>
+        <item name="colorSecondary">@color/secondary_color</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSurface">@color/surface_color</item>
+        <item name="colorOnSurface">@color/on_surface_color</item>
+        <item name="android:colorBackground">@color/background_color</item>
+        <item name="colorOnBackground">@color/on_background_color</item>
+        <item name="android:statusBarColor">@color/primary_color</item>
+        <item name="android:navigationBarColor">@color/background_color</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@color/primary_color</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

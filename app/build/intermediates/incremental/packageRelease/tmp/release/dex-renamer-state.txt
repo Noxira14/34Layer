@@ -1,0 +1,10 @@
+#Sat Sep 20 09:51:54 UTC 2025
+base.2=/workspaces/34Layer/app/build/intermediates/dex/release/mergeDexRelease/classes3.dex
+path.2=classes3.dex
+base.1=/workspaces/34Layer/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/workspaces/34Layer/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

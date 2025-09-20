@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_register.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/nav_header.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_ip_troubleshooting.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_ip_troubleshooting.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/results_layout.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/results_layout.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_web_multiporting.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_web_multiporting.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_proxy_server.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_proxy_server.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_login.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_splash.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/dialog_add_method.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/dialog_add_method.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_admin_panel.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_admin_panel.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/item_method.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/item_method.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_settings.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/item_result.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/item_result.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-mergeReleaseResources-46:/layout/activity_dashboard.xml",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_dashboard.xml"
+    }
+]

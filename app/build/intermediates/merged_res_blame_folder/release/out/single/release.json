@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_settings.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_user_avatar.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_user_avatar.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_warning.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_dialog_add_method.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/dialog_add_method.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_admin_panel.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_admin_panel.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_launcher.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_results_layout.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/results_layout.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_arrow_forward.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_play_arrow.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_play_arrow.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_logout.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_logo.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/font_roboto_regular.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/font/roboto_regular.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_web_multiporting.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_web_multiporting.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_timer.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_timer.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_login.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/raw_startup_sound.wav.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/raw/startup_sound.wav"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/font_roboto_bold.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/font/roboto_bold.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/raw_notification_sound.wav.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/raw/notification_sound.wav"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_empty_methods.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_empty_methods.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_edit.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_splash.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_notification.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_ip_troubleshooting.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_ip_troubleshooting.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_register.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_language.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_dashboard.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_ip_troubleshooting.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_ip_troubleshooting.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/raw_success_sound.wav.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/raw/success_sound.wav"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_theme_toggle.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_theme_toggle.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/menu_nav_menu.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_server_online.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_server_online.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/anim_slide_in_right.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_nav_header.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_settings.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/anim_fade_in.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_server_offline.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_server_offline.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_admin_panel.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_admin_panel.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_gradient_primary.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/gradient_primary.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_update.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_update.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_add.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_circle_background.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_person.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_proxy_server.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_proxy_server.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_item_method.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/item_method.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/raw_error_sound.wav.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/raw/error_sound.wav"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_item_result.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/item_result.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_proxy_server.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_proxy_server.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/layout_activity_web_multiporting.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/layout/activity_web_multiporting.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_delete.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/anim_slide_out_left.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_dashboard.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/anim_slide_in_left.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_rounded_corner_card.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/rounded_corner_card.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_button_primary.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_menu.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/anim_fade_out.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/anim_slide_out_right.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_ic_lock.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/drawable_badge_background.xml.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/drawable/badge_background.xml"
+    },
+    {
+        "merged": "com.ibracodeko.layerthirtyfour.app-merged_res-47:/raw_click_sound.wav.flat",
+        "source": "com.ibracodeko.layerthirtyfour.app-main-48:/raw/click_sound.wav"
+    }
+]
