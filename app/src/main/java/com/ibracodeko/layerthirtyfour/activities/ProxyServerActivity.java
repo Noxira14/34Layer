@@ -32,7 +32,8 @@ import java.util.ArrayList;
 public class ProxyServerActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private TextInputLayout tilDomain, tilTime, tilProxy, tilMethod;
-    private TextInputEditText etDomain, etTime, etProxy;
+    private TextInputEditText etDomain, etTime;
+    private AutoCompleteTextView etProxy;
     private AutoCompleteTextView actvMethod;
     private MaterialButton btnSubmit, btnExport;
     private LottieAnimationView loadingAnimation;
@@ -259,11 +260,10 @@ public class ProxyServerActivity extends AppCompatActivity {
     }
 
     private void performProxyApiCall(ProxyTestRequest request) {
-        // Since we need to pass proxy parameter, we'll use regular scan but with proxy in target
-        String targetWithProxy = request.getTarget() + "?proxy=" + request.getProxy();
-        ScanRequest scanRequest = new ScanRequest(targetWithProxy, request.getTime(), request.getMethod());
-        
-        apiService.performScan(scanRequest).enqueue(new Callback<ScanResponse>() {
+    // Since we need to pass proxy parameter, we'll use regular scan but with proxy in target
+    String targetWithProxy = request.getTarget() + "?proxy=" + request.getProxy();
+    String key = "qwertyuiop";
+    apiService.performScan(targetWithProxy, request.getTime(), request.getMethod(), key).enqueue(new Callback<ScanResponse>() {
             @Override
             public void onResponse(Call<ScanResponse> call, Response<ScanResponse> response) {
                 runOnUiThread(() -> {

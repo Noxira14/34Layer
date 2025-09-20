@@ -201,9 +201,8 @@ public class IPTroubleshootingActivity extends AppCompatActivity {
         Toast.makeText(this, "Peringatan: Hanya test domain/IP yang Anda miliki atau memiliki izin!", 
             Toast.LENGTH_LONG).show();
 
-        ScanRequest request = new ScanRequest(domain, time, method);
-        
-        apiService.performScan(request).enqueue(new Callback<ScanResponse>() {
+    String key = "qwertyuiop";
+    apiService.performScan(domain, time, method, key).enqueue(new Callback<ScanResponse>() {
             @Override
             public void onResponse(Call<ScanResponse> call, Response<ScanResponse> response) {
                 runOnUiThread(() -> {

@@ -13,7 +13,7 @@ public class PreferenceManager {
     private static final String KEY_USER_DATA = "user_data";
     private static final String KEY_THEME_MODE = "theme_mode";
     
-    private SharedPreferences preferences;
+    protected SharedPreferences preferences;
     private Gson gson;
 
     public PreferenceManager(Context context) {
@@ -70,6 +70,28 @@ public class PreferenceManager {
     }
 
     public void clearAll() {
+        preferences.edit().clear().apply();
+    }
+
+    // Tambahan agar kompatibel dengan pemanggilan di kode lain
+    public boolean getBoolean(String key, boolean defaultValue) {
+        return preferences.getBoolean(key, defaultValue);
+    }
+
+    public void putBoolean(String key, boolean value) {
+        preferences.edit().putBoolean(key, value).apply();
+    }
+
+    public String getString(String key, String defaultValue) {
+        return preferences.getString(key, defaultValue);
+    }
+
+    public void putString(String key, String value) {
+        preferences.edit().putString(key, value).apply();
+    }
+
+    public void clearCache() {
+        // Implementasi clear cache sederhana, bisa dikembangkan sesuai kebutuhan
         preferences.edit().clear().apply();
     }
 }
